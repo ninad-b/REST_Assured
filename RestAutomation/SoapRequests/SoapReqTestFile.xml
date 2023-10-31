@@ -1,0 +1,7 @@
+<Envelope xmlns="http://schemas.xmlsoap.org/soap/envelope/">
+    <Body>
+        <CountriesUsingCurrency xmlns="http://www.oorsprong.org/websamples.countryinfo">
+            <sISOCurrencyCode>INR</sISOCurrencyCode>
+        </CountriesUsingCurrency>
+    </Body>
+</Envelope>
